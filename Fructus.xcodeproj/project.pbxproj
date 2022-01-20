@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6206564B27992DBA00B15DCF /* FruitRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6206564A27992DBA00B15DCF /* FruitRowView.swift */; };
 		621E14ED2797CD1200BF5825 /* FructusApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 621E14EC2797CD1200BF5825 /* FructusApp.swift */; };
 		621E14EF2797CD1200BF5825 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 621E14EE2797CD1200BF5825 /* ContentView.swift */; };
 		621E14F12797CD1300BF5825 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 621E14F02797CD1300BF5825 /* Assets.xcassets */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6206564A27992DBA00B15DCF /* FruitRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitRowView.swift; sourceTree = "<group>"; };
 		621E14E92797CD1200BF5825 /* Fructus.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Fructus.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		621E14EC2797CD1200BF5825 /* FructusApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FructusApp.swift; sourceTree = "<group>"; };
 		621E14EE2797CD1200BF5825 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -94,6 +96,7 @@
 			children = (
 				621E14FC2797D11000BF5825 /* FruitCardView.swift */,
 				621E14FE2797D48B00BF5825 /* StartButtonView.swift */,
+				6206564A27992DBA00B15DCF /* FruitRowView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -186,6 +189,7 @@
 			files = (
 				621E15072797DB7800BF5825 /* FruitData.swift in Sources */,
 				621E14FD2797D11000BF5825 /* FruitCardView.swift in Sources */,
+				6206564B27992DBA00B15DCF /* FruitRowView.swift in Sources */,
 				621E14FF2797D48B00BF5825 /* StartButtonView.swift in Sources */,
 				621E14EF2797CD1200BF5825 /* ContentView.swift in Sources */,
 				621E15012797D72E00BF5825 /* OnboardingView.swift in Sources */,
